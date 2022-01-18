@@ -1,5 +1,3 @@
-// Todo
-// Extract recommended rules
 module.exports = {
   overrides: [
     {
@@ -9,6 +7,6 @@ module.exports = {
         "jest/globals": true,
       },
       extends: ["plugin:jest/recommended", "plugin:jest/style"],
-    }
-  ], 
+    },
+  ],
 };

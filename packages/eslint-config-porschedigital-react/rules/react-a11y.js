@@ -1,12 +1,10 @@
 module.exports = {
   plugins: ["jsx-a11y", "react"],
-
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
     },
   },
-
   rules: {
     // Enforce that all elements that require alternative text have meaningful information
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/alt-text.md
@@ -276,23 +274,5 @@ module.exports = {
     // Enforce tabIndex value is not greater than zero.
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/tabindex-no-positive.md
     "jsx-a11y/tabindex-no-positive": "error",
-
-    // ----------------------------------------------------
-    // Rules that no longer exist in eslint-plugin-jsx-a11y
-    // ----------------------------------------------------
-
-    // require that JSX labels use "htmlFor"
-    // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/label-has-for.md
-    // deprecated: replaced by `label-has-associated-control` rule
-    "jsx-a11y/label-has-for": [
-      "off",
-      {
-        components: [],
-        required: {
-          every: ["nesting", "id"],
-        },
-        allowChildren: false,
-      },
-    ],
   },
 };

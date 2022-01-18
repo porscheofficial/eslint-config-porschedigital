@@ -1,20 +1,19 @@
 {
+  "version": "1.0.0",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
-  "description": "This package provides Porsche Digital's eslint-config as an extensible shared config.",
-  "private": true,
   "scripts": {
-    "test": "yarn workspaces foreach run eslint:ci"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.com:porsche-digital/porsche-digital-community/javascript.git"
+    "test": "yarn workspaces foreach run test:ci",
+    "release:prepare": "standard-version"
   },
   "author": {
     "name": "Patrick Puritscher",
     "email": "patrick.puritscher@porsche.digital"
   },
-  "homepage": "https://gitlab.com/porsche-digital/porsche-digital-community/javascript",
-  "packageManager": "yarn@3.1.1"
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "standard-version": "9.3.2"
+  }
 }

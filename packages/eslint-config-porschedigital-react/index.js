@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    "@porsche-digital/eslint-config-porschedigital-base",
+    "@porscheofficial/eslint-config-porschedigital-base",
     "./rules/react",
     "./rules/react-a11y",
     "./rules/react-hooks",

@@ -1,0 +1,22 @@
+{
+  "name": "@porscheofficial/prettier-config-porschedigital",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This package provides Porsche Digital's prettier-config as an extensible shared config.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/porscheofficial/eslint-config-porschedigital",
+    "directory": "packages/prettier-config-porschedigital"
+  },
+  "devDependencies": {
+    "prettier": "2.5.1"
+  },
+  "peerDependencies": {
+    "prettier": "*"
+  },
+  "files": [
+    "index.json",
+    "package.json"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "@porscheofficial/eslint-config-porschedigital-react",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This package provides Porsche Digital's eslint-config as an extensible shared config.",
+  "main": "index.js",
+  "scripts": {
+    "eslint-find-option-rules": "eslint-find-rules index.js",
+    "eslint:ci": "eslint ./ --ext .js,.jsx,.tsx,.ts -f stylish",
+    "eslint:fix": "eslint ./ --fix --ext .js,.jsx,.tsx,.ts -f stylish",
+    "lint": "eslint --report-unused-disable-directives ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/porscheofficial/eslint-config-porschedigital",
+    "directory": "packages/prettier-config-porschedigital"
+  },
+  "devDependencies": {
+    "eslint": "8.7.0",
+    "eslint-find-rules": "4.1.0",
+    "prettier": "2.5.1",
+    "typescript": "4.5.4"
+  },
+  "peerDependencies": {
+    "eslint": "8",
+    "typescript": "*"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "dependencies": {
+    "@porsche-digital/eslint-config-porschedigital-base": "3.0.0-alpha.23",
+    "@react-native-community/eslint-config": "^3.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-react": "7.28.0",
+    "eslint-plugin-react-hooks": "4.3.0"
+  }
+}

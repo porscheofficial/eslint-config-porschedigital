@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This package provides Porsche Digital's prettier-config as an extensible shared config.",
   "main": "index.json",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/porscheofficial/eslint-config-porschedigital",
@@ -22,7 +23,8 @@
   "files": [
     "index.json",
     "package.json",
-    "README.md"
+    "README.md",
+    "NOTICE.md"
   ],
   "standard-version": {
     "skip": {

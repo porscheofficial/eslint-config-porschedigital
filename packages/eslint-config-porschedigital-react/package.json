@@ -2,10 +2,11 @@
   "name": "@porscheofficial/eslint-config-porschedigital-react",
   "version": "1.0.0",
   "description": "This package provides Porsche Digital's eslint-config as an extensible shared config.",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/porscheofficial/eslint-config-porschedigital",
-    "directory": "packages/prettier-config-porschedigital"
+    "directory": "packages/eslint-config-porschedigital-react"
   },
   "main": "index.js",
   "scripts": {
@@ -22,7 +23,8 @@
     "tsconfig.json",
     "index.js",
     "rules/",
-    "README.md"
+    "README.md",
+    "NOTICE.md"
   ],
   "standard-version": {
     "skip": {

@@ -33,8 +33,9 @@ This package provides the base ESLint config as an extensible shared component.
 yarn add --dev --exact prettier @porscheofficial/prettier-config-porschedigital
 ```
 
+Update `package.json`
+
 ```json
-// package.json
 {
   "prettier": "@porscheofficial/prettier-config-porschedigital"
 }

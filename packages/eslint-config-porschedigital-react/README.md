@@ -35,6 +35,7 @@ yarn add --dev --exact prettier @porscheofficial/prettier-config-porschedigital
 
 ```json
 {
+  // package.json
   "prettier": "@porscheofficial/prettier-config-porschedigital"
 }
 ```

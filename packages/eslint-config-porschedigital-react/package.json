@@ -35,7 +35,7 @@
   "devDependencies": {
     "@commitlint/cli": "16.2.3",
     "@commitlint/config-conventional": "16.2.1",
-    "@porscheofficial/prettier-config-porschedigital": "1.0.2",
+    "@porscheofficial/prettier-config-porschedigital": "workspace:*",
     "eslint": "8.12.0",
     "eslint-find-rules": "4.1.0",
     "prettier": "2.6.2",
@@ -49,7 +49,7 @@
     "node": ">= 12"
   },
   "dependencies": {
-    "@porscheofficial/eslint-config-porschedigital-base": "1.0.0",
+    "@porscheofficial/eslint-config-porschedigital-base": "1.0.3",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-jsx-a11y": "6.5.1",
     "eslint-plugin-react": "7.29.4",

@@ -20,7 +20,6 @@
   },
   "files": [
     "package.json",
-    "tsconfig.json",
     "index.js",
     "rules/",
     "README.md",
@@ -36,7 +35,7 @@
   "devDependencies": {
     "@commitlint/cli": "16.2.3",
     "@commitlint/config-conventional": "16.2.1",
-    "@porscheofficial/prettier-config-porschedigital": "1.0.0",
+    "@porscheofficial/prettier-config-porschedigital": "1.0.2",
     "eslint": "8.12.0",
     "eslint-find-rules": "4.1.0",
     "prettier": "2.6.2",

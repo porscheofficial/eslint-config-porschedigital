@@ -20,7 +20,6 @@
   },
   "files": [
     "package.json",
-    "tsconfig.json",
     "index.js",
     "rules/",
     "README.md",

@@ -377,6 +377,7 @@ module.exports = {
             ignoreArrayIndexes: true,
             enforceConst: true,
             detectObjects: false,
+            ignoreTypeIndexes: true,
           },
         ],
 

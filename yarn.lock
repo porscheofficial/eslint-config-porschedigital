@@ -342,7 +342,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@porscheofficial/eslint-config-porschedigital-base@1.0.3, @porscheofficial/eslint-config-porschedigital-base@workspace:packages/eslint-config-porschedigital-base":
+"@porscheofficial/eslint-config-porschedigital-base@2.0.0, @porscheofficial/eslint-config-porschedigital-base@workspace:packages/eslint-config-porschedigital-base":
   version: 0.0.0-use.local
   resolution: "@porscheofficial/eslint-config-porschedigital-base@workspace:packages/eslint-config-porschedigital-base"
   dependencies:
@@ -372,7 +372,7 @@ __metadata:
   dependencies:
     "@commitlint/cli": 17.0.2
     "@commitlint/config-conventional": 17.0.2
-    "@porscheofficial/eslint-config-porschedigital-base": 1.0.3
+    "@porscheofficial/eslint-config-porschedigital-base": 2.0.0
     "@porscheofficial/prettier-config-porschedigital": "workspace:*"
     "@rushstack/eslint-patch": 1.1.3
     eslint: 8.18.0

@@ -1,5 +1,9 @@
 # Porsche Digital ESLint Config
 
+[![npm version](http://img.shields.io/npm/v/@porscheofficial/eslint-config-porschedigital-base.svg?style=flat)](https://www.npmjs.com/package/@porscheofficial/eslint-config-porschedigital-base)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/porscheofficial/eslint-config-porschedigital/main/LICENSE.md)
+[![npm](https://img.shields.io/npm/dm/@porscheofficial/eslint-config-porschedigital-base.svg)](https://www.npmjs.com/package/@porscheofficial/eslint-config-porschedigital-base)
+
 An opinionated ESLint config which supports: JavaScript, TypeScript, Jest and React.
 
 ## 🚀 Usage of ESLint configs

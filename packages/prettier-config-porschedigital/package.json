@@ -13,9 +13,9 @@
     "release:prepare": "standard-version"
   },
   "devDependencies": {
-    "@commitlint/cli": "16.2.3",
-    "@commitlint/config-conventional": "16.2.1",
-    "prettier": "2.6.2"
+    "@commitlint/cli": "17.0.2",
+    "@commitlint/config-conventional": "17.0.2",
+    "prettier": "2.7.1"
   },
   "peerDependencies": {
     "prettier": "*"

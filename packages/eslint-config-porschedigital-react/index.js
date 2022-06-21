@@ -1,3 +1,5 @@
+require("@rushstack/eslint-patch/modern-module-resolution");
+
 module.exports = {
   extends: [
     "@porscheofficial/eslint-config-porschedigital-base",

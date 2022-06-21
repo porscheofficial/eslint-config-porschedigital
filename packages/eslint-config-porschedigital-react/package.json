@@ -1,6 +1,6 @@
 {
   "name": "@porscheofficial/eslint-config-porschedigital-react",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "This package provides Porsche Digital's eslint-config as an extensible shared config.",
   "license": "MIT",
   "repository": {
@@ -49,7 +49,7 @@
     "node": ">= 12"
   },
   "dependencies": {
-    "@porscheofficial/eslint-config-porschedigital-base": "1.0.3",
+    "@porscheofficial/eslint-config-porschedigital-base": "2.0.0",
     "@rushstack/eslint-patch": "1.1.3",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-jsx-a11y": "6.5.1",

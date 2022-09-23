@@ -1,6 +1,6 @@
 {
   "name": "@porscheofficial/prettier-config-porschedigital",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "This package provides Porsche Digital's prettier-config as an extensible shared config.",
   "main": "index.json",
   "license": "MIT",

@@ -22,9 +22,9 @@ Make sure to also include our [prettier config](/packages/prettier-config-porsch
 ### Prettier
 
 We differ between code quality rules and stylistic rules.
-Therefore we follow the [recommendation of prettier](https://prettier.io/docs/en/integrating-with-linters.html).
+Therefore, we follow the [recommendation of prettier](https://prettier.io/docs/en/integrating-with-linters.html).
 That means, that we use `eslint` exclusively for code quality and `prettier` for the style.
-That's why this project also contains a package with a shared `prettier` config containing the rules we have agreed on (`WIP`).
+That's why this project also contains a package with a shared `prettier` config containing the rules we have agreed on.
 
 ### Dependencies
 

@@ -9,8 +9,8 @@
     "release:prepare": "standard-version"
   },
   "author": {
-    "name": "Patrick Puritscher",
-    "email": "patrick.puritscher@porsche.digital"
+    "name": "Patrick Böder",
+    "email": "patrick.boeder@porsche.digital"
   },
   "packageManager": "yarn@3.2.1",
   "devDependencies": {

@@ -9,9 +9,6 @@
     "url": "https://github.com/porscheofficial/eslint-config-porschedigital",
     "directory": "packages/prettier-config-porschedigital"
   },
-  "scripts": {
-    "release:prepare": "standard-version"
-  },
   "devDependencies": {
     "@commitlint/cli": "17.1.2",
     "@commitlint/config-conventional": "17.1.0",
@@ -25,11 +22,5 @@
     "package.json",
     "README.md",
     "NOTICE.md"
-  ],
-  "standard-version": {
-    "skip": {
-      "tag": true,
-      "commit": true
-    }
-  }
+  ]
 }

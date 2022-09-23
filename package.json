@@ -5,15 +5,11 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "yarn workspaces foreach run test:ci",
-    "release:prepare": "standard-version"
+    "test": "yarn workspaces foreach run test:ci"
   },
   "author": {
     "name": "Patrick Böder",
     "email": "patrick.boeder@porsche.digital"
   },
-  "packageManager": "yarn@3.2.1",
-  "devDependencies": {
-    "standard-version": "9.5.0"
-  }
+  "packageManager": "yarn@3.2.1"
 }

@@ -6,8 +6,7 @@
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
-      "prerelease": false,
-      "release-as": "2.1.0"
+      "prerelease": false
     },
     "packages/eslint-config-porschedigital-react": {
       "changelog-path": "CHANGELOG.md",
@@ -15,8 +14,7 @@
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
-      "prerelease": false,
-      "release-as": "2.1.0"
+      "prerelease": false
     },
     "packages/prettier-config-porschedigital": {
       "changelog-path": "CHANGELOG.md",
@@ -24,8 +22,7 @@
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
-      "prerelease": false,
-      "release-as": "2.1.0"
+      "prerelease": false
     }
   }
 }

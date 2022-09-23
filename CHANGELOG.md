@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Miscellaneous Chores
 
-* release 2.1.0 ([de26848](https://github.com/porscheofficial/eslint-config-porschedigital/commit/de26848fae6a63a45bf4dd51422e60b54079e802))
+* upgrade dependencies ([30e50f6](https://github.com/porscheofficial/eslint-config-porschedigital/commit/30e50f60de26daf9d9ec7b6f950270a27eb7b9fe))
 
 ## [2.0.0](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v1.0.3...v2.0.0) (2022-06-21)
 

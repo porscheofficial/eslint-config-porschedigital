@@ -1,4 +1,5 @@
 {
+  "bootstrap-sha": "eb6b6190ded5763e4e484634374f9f5b94799680",
   "packages": {
     "packages/eslint-config-porschedigital-base": {
       "changelog-path": "CHANGELOG.md",

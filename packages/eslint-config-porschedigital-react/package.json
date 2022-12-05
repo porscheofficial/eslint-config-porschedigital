@@ -43,7 +43,7 @@
     "node": ">= 12"
   },
   "dependencies": {
-    "@porscheofficial/eslint-config-porschedigital-base": "2.1.0",
+    "@porscheofficial/eslint-config-porschedigital-base": "2.2.0",
     "@rushstack/eslint-patch": "1.2.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-jsx-a11y": "6.6.1",

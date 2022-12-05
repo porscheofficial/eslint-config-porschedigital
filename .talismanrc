@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: CHANGELOG.md
+  checksum: b31d3cb19e6bbbc478906362fdd184439e6abe230bd2a431b205d64d309c412f
+version: "1.0"

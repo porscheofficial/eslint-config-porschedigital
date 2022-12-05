@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v2.1.0...v2.2.0) (2022-12-05)
+
+
+### Features
+
+* upgrade dependencies ([2203284](https://github.com/porscheofficial/eslint-config-porschedigital/commit/220328446e0820d5602fcfeb5883ba03f96c46a4))
+
 ## [2.1.0](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v2.0.0...v2.1.0) (2022-09-23)
 
 

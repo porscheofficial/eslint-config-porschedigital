@@ -27,13 +27,13 @@
   ],
   "prettier": "@porscheofficial/prettier-config-porschedigital",
   "devDependencies": {
-    "@commitlint/cli": "17.1.2",
-    "@commitlint/config-conventional": "17.1.0",
+    "@commitlint/cli": "17.3.0",
+    "@commitlint/config-conventional": "17.3.0",
     "@porscheofficial/prettier-config-porschedigital": "workspace:*",
-    "eslint": "8.23.1",
+    "eslint": "8.29.0",
     "eslint-find-rules": "4.1.0",
-    "prettier": "2.7.1",
-    "typescript": "4.8.3"
+    "prettier": "2.8.0",
+    "typescript": "4.9.3"
   },
   "peerDependencies": {
     "eslint": "8",
@@ -44,11 +44,11 @@
   },
   "dependencies": {
     "@rushstack/eslint-patch": "1.2.0",
-    "@typescript-eslint/eslint-plugin": "5.38.0",
-    "@typescript-eslint/parser": "5.38.0",
+    "@typescript-eslint/eslint-plugin": "5.45.0",
+    "@typescript-eslint/parser": "5.45.0",
     "confusing-browser-globals": "1.0.11",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-jest": "27.0.4"
+    "eslint-plugin-jest": "27.1.6"
   }
 }

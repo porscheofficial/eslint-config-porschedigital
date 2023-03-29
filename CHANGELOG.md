@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.1](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v3.0.0...v3.0.1) (2023-03-29)
+
+
+### Bug Fixes
+
+* disable n/no-missing-import ([afd9534](https://github.com/porscheofficial/eslint-config-porschedigital/commit/afd9534bda3f0019fa8cc234969a7523c5166ba6))
+
 ## [3.0.0](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v2.3.0...v3.0.0) (2023-03-29)
 
 

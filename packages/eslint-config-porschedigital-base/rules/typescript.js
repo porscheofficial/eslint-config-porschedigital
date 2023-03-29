@@ -456,7 +456,7 @@ module.exports = {
           },
         ],
         // https://typescript-eslint.io/rules/no-import-type-side-effects/
-        '@typescript-eslint/no-import-type-side-effects': 'error',
+        "@typescript-eslint/no-import-type-side-effects": "error",
       },
     },
   ],

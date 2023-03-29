@@ -23,5 +23,9 @@ module.exports = {
     // disallow use of process.env
     // https://github.com/eslint-community/eslint-plugin-n/blob/master/docs/rules/no-process-env.md
     "n/no-process-env": "error",
+
+    // See: https://github.com/eslint-community/eslint-plugin-n/issues/33
+    // We could disable that rule just for .ts files, but that would be inconsistent
+    "n/no-missing-import": "off",
   },
 };

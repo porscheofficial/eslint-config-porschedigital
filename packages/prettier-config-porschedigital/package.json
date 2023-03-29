@@ -10,8 +10,6 @@
     "directory": "packages/prettier-config-porschedigital"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.5.1",
-    "@commitlint/config-conventional": "17.4.4",
     "prettier": "2.8.7"
   },
   "peerDependencies": {

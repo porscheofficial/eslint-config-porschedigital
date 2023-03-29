@@ -2,5 +2,5 @@ fileignoreconfig:
 - filename: CHANGELOG.md
   checksum: b31d3cb19e6bbbc478906362fdd184439e6abe230bd2a431b205d64d309c412f
 - filename: yarn.lock
-  checksum: 8ce23df7f32cde86f8dc824fcefd30c833dec34a0865c73bac65fa43565005f3
+  checksum: 9617ae55dbf56f9f3d707a8fdb6f31322b58d2744371e40a0c089ed727e764be
 version: "1.0"

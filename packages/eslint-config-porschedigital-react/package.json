@@ -27,8 +27,6 @@
   ],
   "prettier": "@porscheofficial/prettier-config-porschedigital",
   "devDependencies": {
-    "@commitlint/cli": "17.5.1",
-    "@commitlint/config-conventional": "17.4.4",
     "@porscheofficial/prettier-config-porschedigital": "workspace:*",
     "eslint": "8.37.0",
     "eslint-find-rules": "4.1.0",

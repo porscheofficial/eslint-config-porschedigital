@@ -27,7 +27,7 @@
   ],
   "prettier": "@porscheofficial/prettier-config-porschedigital",
   "devDependencies": {
-    "@porscheofficial/prettier-config-porschedigital": "workspace:*",
+    "@porscheofficial/prettier-config-porschedigital": "2.3.0",
     "eslint": "8.37.0",
     "eslint-find-rules": "4.1.0",
     "prettier": "2.8.7",

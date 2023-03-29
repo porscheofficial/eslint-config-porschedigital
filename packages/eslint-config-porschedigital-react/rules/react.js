@@ -186,15 +186,6 @@ module.exports = {
       },
     ],
 
-    // Enforce defaultProps declarations alphabetical sorting
-    // https://github.com/yannickcr/eslint-plugin-react/blob/843d71a432baf0f01f598d7cf1eea75ad6896e4b/docs/rules/jsx-sort-default-props.md
-    "react/jsx-sort-default-props": [
-      "off",
-      {
-        ignoreCase: true,
-      },
-    ],
-
     // Prevent React to be incorrectly marked as unused
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-uses-react.md
     "react/jsx-uses-react": ["error"],

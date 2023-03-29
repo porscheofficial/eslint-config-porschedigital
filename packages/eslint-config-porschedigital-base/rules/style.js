@@ -318,12 +318,6 @@ module.exports = {
     // https://eslint.org/docs/rules/new-parens
     // "new-parens": "error",
 
-    // allow/disallow an empty newline after var statement
-    "newline-after-var": "off",
-
-    // https://eslint.org/docs/rules/newline-before-return
-    "newline-before-return": "off",
-
     // enforces new line after each method call in the chain to make it
     // more readable and easy to maintain
     // https://eslint.org/docs/rules/newline-per-chained-call
@@ -552,10 +546,6 @@ module.exports = {
     // https://stackoverflow.com/questions/25453864/what-is-the-standard-for-use-of-quotes-in-typescript
     // TS: https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
     quotes: ["error", "double", { avoidEscape: true }],
-
-    // do not require jsdoc
-    // https://eslint.org/docs/rules/require-jsdoc
-    "require-jsdoc": "off",
 
     // require or disallow use of semicolons instead of ASI
     semi: ["error", "always"],

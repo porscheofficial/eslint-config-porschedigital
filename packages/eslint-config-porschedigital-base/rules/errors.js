@@ -170,10 +170,6 @@ module.exports = {
     // disallow comparisons with the value NaN
     "use-isnan": "error",
 
-    // ensure JSDoc comments are valid
-    // https://eslint.org/docs/rules/valid-jsdoc
-    "valid-jsdoc": "off",
-
     // ensure that the results of typeof are compared against a valid string
     // https://eslint.org/docs/rules/valid-typeof
     "valid-typeof": ["error", { requireStringLiterals: true }],

@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [4.0.0-canary.0](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v3.0.1...v4.0.0-canary.0) (2023-08-07)
+## [4.0.0](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v3.0.1...v4.0.0) (2023-08-07)
 
 
 ⚠ BREAKING CHANGES

@@ -100,13 +100,9 @@ module.exports = {
           },
         ],
 
-        // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-implicit-any-catch.md
-        "@typescript-eslint/no-implicit-any-catch": [
-          "error",
-          {
-            allowExplicitAny: false,
-          },
-        ],
+        // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-explicit-any.md
+        "@typescript-eslint/no-explicit-any": "warn",
+
         // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-inferrable-types.md
         // Todo enable?
         "@typescript-eslint/no-inferrable-types": [
@@ -116,8 +112,6 @@ module.exports = {
             ignoreProperties: false,
           },
         ],
-        // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-parameter-properties.md
-        "@typescript-eslint/no-parameter-properties": ["error"],
         // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-require-imports.md
         "@typescript-eslint/no-require-imports": ["error"],
         // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-type-alias.md

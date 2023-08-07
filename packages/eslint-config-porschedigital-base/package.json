@@ -1,6 +1,6 @@
 {
   "name": "@porscheofficial/eslint-config-porschedigital-base",
-  "version": "4.0.0-canary.0",
+  "version": "4.0.0",
   "description": "This package provides Porsche Digital's eslint-config as an extensible shared config.",
   "license": "MIT",
   "repository": {
@@ -27,7 +27,7 @@
   ],
   "prettier": "@porscheofficial/prettier-config-porschedigital",
   "devDependencies": {
-    "@porscheofficial/prettier-config-porschedigital": "4.0.0-canary.0",
+    "@porscheofficial/prettier-config-porschedigital": "4.0.0",
     "eslint": "8.46.0",
     "eslint-find-rules": "4.1.0",
     "prettier": "3.0.1",

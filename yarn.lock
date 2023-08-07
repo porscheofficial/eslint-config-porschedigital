@@ -115,11 +115,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@porscheofficial/eslint-config-porschedigital-base@3.0.1, @porscheofficial/eslint-config-porschedigital-base@workspace:packages/eslint-config-porschedigital-base":
+"@porscheofficial/eslint-config-porschedigital-base@4.0.0, @porscheofficial/eslint-config-porschedigital-base@workspace:packages/eslint-config-porschedigital-base":
   version: 0.0.0-use.local
   resolution: "@porscheofficial/eslint-config-porschedigital-base@workspace:packages/eslint-config-porschedigital-base"
   dependencies:
-    "@porscheofficial/prettier-config-porschedigital": 3.0.1
+    "@porscheofficial/prettier-config-porschedigital": 4.0.0
     "@rushstack/eslint-patch": 1.3.2
     "@typescript-eslint/eslint-plugin": 6.2.1
     "@typescript-eslint/parser": 6.2.1
@@ -142,8 +142,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@porscheofficial/eslint-config-porschedigital-react@workspace:packages/eslint-config-porschedigital-react"
   dependencies:
-    "@porscheofficial/eslint-config-porschedigital-base": 3.0.1
-    "@porscheofficial/prettier-config-porschedigital": 3.0.1
+    "@porscheofficial/eslint-config-porschedigital-base": 4.0.0
+    "@porscheofficial/prettier-config-porschedigital": 4.0.0
     "@rushstack/eslint-patch": 1.3.2
     eslint: 8.46.0
     eslint-config-prettier: 9.0.0
@@ -159,7 +159,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@porscheofficial/prettier-config-porschedigital@3.0.1, @porscheofficial/prettier-config-porschedigital@workspace:packages/prettier-config-porschedigital":
+"@porscheofficial/prettier-config-porschedigital@4.0.0, @porscheofficial/prettier-config-porschedigital@workspace:packages/prettier-config-porschedigital":
   version: 0.0.0-use.local
   resolution: "@porscheofficial/prettier-config-porschedigital@workspace:packages/prettier-config-porschedigital"
   dependencies:

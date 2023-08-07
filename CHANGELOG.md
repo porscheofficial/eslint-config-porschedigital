@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0-canary.0](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v3.0.1...v4.0.0-canary.0) (2023-08-07)
+
+
+⚠ BREAKING CHANGES
+
+* Upgrade Dependencies ([ce31450](https://github.com/porscheofficial/eslint-config-porschedigital/commit/ce314502ff5c1d8d8f42246e930e71968384c8fa)) 
+  * Migrate to @typescript-eslint/recommended-type-checked and @typescript-eslint/stylistic-type-checked
+  * Major upgrade prettier to v3 / eslint-plugin-prettier to v9
+  * Major upgrade eslint-plugin-n to v16
+
 ## [3.0.1](https://github.com/porscheofficial/eslint-config-porschedigital/compare/v3.0.0...v3.0.1) (2023-03-29)
 
 
